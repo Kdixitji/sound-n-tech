@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sound-n-tech/static/css/main.d663e83e.css",
+    "main.js": "/sound-n-tech/static/js/main.2f079d70.js",
+    "static/media/pro7.jpg": "/sound-n-tech/static/media/pro7.7dbb1623e7a6a6b27b0f.jpg",
+    "static/media/pro3.jpg": "/sound-n-tech/static/media/pro3.cc9f399cae4e1a155789.jpg",
+    "static/media/pro9.jpg": "/sound-n-tech/static/media/pro9.3963e9e00c9f4ecd643a.jpg",
+    "static/media/pro5.jpg": "/sound-n-tech/static/media/pro5.dfe1d55f000f863901fe.jpg",
+    "static/media/pro12.jpg": "/sound-n-tech/static/media/pro12.25816ba7797e3a83d640.jpg",
+    "static/media/pro11.jpg": "/sound-n-tech/static/media/pro11.d526644f2067181b57b0.jpg",
+    "static/media/pro1.jpg": "/sound-n-tech/static/media/pro1.161bbec78eb1a9300aa0.jpg",
+    "static/media/pro2.jpg": "/sound-n-tech/static/media/pro2.e63f54a5c666f2c65859.jpg",
+    "static/media/pro6.jpg": "/sound-n-tech/static/media/pro6.fffeefe89ad3df05c66b.jpg",
+    "static/media/pro4.jpg": "/sound-n-tech/static/media/pro4.a9f028e2513673067537.jpg",
+    "static/media/pro10.jpg": "/sound-n-tech/static/media/pro10.462cfd78cc6f54092539.jpg",
+    "static/media/pro8.jpg": "/sound-n-tech/static/media/pro8.e1d1ee324e2e5b1c8542.jpg",
+    "static/media/img2.jpg": "/sound-n-tech/static/media/img2.b088c1230ef8d714fbbc.jpg",
+    "index.html": "/sound-n-tech/index.html",
+    "main.d663e83e.css.map": "/sound-n-tech/static/css/main.d663e83e.css.map",
+    "main.2f079d70.js.map": "/sound-n-tech/static/js/main.2f079d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d663e83e.css",
+    "static/js/main.2f079d70.js"
+  ]
+}
